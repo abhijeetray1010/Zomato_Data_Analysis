@@ -1,13 +1,13 @@
 # Zomato_Data_Analysis
 Finding best restaurants in Bangalore
 
-#### Introduction
+### Introduction
 Bengaluru being an IT capital of India. Most of the people here are dependent mainly on the restaurant food as they don’t have time to cook for themselves. Bengaluru is one such city that has more than 12,000 restaurants serving dishes from all over the world, with such an high number of restaurants, it has become difficult for people who are striving to get the best food.
 
-#### Purpose
+### Purpose
 To perform data analysis on zomato dataset to find the best restaurants in Bangalore so that people have a good meal the next time they step out.
 
-#### Questions
+### Questions
 Here we try to analyze which factors were more likely to contribute for a restaurant to become the best.
 
 Are the locations of restaurants localised to specific parts of city?
@@ -22,10 +22,10 @@ Which is the most popular service type which makes the restaurant more popular?
 
 First, the raw comma separated values (.cvs) data will be loaded into a Python (NumPy) series. Secondly, Data Wrangling process would be carried out Third, there will be some data exploration. This will be completed mostly by loading plots in order to better understand the data with visualization.
 
-#### About the dataset
+### About the dataset
 This dataset contains information about restaurants in Bangalore. Description of this dataset can be viewed on the Kaggle website, where the data was obtained (https://www.kaggle.com/himanshupoddar/zomato-bangalore-restaurants).
 
-#### Data Description
+### Data Description
 url: contains the url of the restaurant in the zomato website
 
 address: contains the address of the restaurant in Bengaluru
