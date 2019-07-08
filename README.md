@@ -2,7 +2,7 @@
 Finding best restaurants in Bangalore
 
 ### Introduction
-Bengaluru being an IT capital of India. Most of the people here are dependent mainly on the restaurant food as they don’t have time to cook for themselves. Bengaluru is one such city that has more than 12,000 restaurants serving dishes from all over the world, with such an high number of restaurants, it has become difficult for people who are striving to get the best food.
+Bengaluru being an IT capital of India. Most of the people here are dependent mainly on the restaurant food as they don’t have time to cook for themselves. Bengaluru is one such city that has more than 12,000 restaurants serving dishes from all over the world, with such high number of restaurants, it has become difficult for people who are striving to get the best food.
 
 ### Purpose
 To perform data analysis on zomato dataset to find the best restaurants in Bangalore so that people have a good meal the next time they step out.
